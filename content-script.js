@@ -76,11 +76,7 @@
         }
         data = [...tagList.querySelectorAll('.select-menu-item')].map(x => x.getAttribute('data-name'));
       } else {
-        data = r.json();
-        if (!data || !data.length) {
-          return cb();
-        }
-        data = data.map(x => x.name);
+        data = r.json().map(x => x.name);
       }
       requested = true;
       const versions = data
