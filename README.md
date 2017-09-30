@@ -12,8 +12,8 @@ Displays the latest version of a project next to the repo name on GitHub.
 Features
 --------
 
-- Displays the latest semantic version tagged in the repo
-- Displays the next pre-release (if available)
+- Displays the latest semantic version tagged in the repo <img src="media/example-release.png" align="center" alt="in gray">
+- Displays the next pre-release (if available) <img src="media/example-prerelease.png" align="center" alt="in yellow">
 - Displays all versions on mouse hover
 
 
