@@ -1,7 +1,7 @@
 ﻿GitHub Version Tags
 ===================
 
-<a href="https://chrome.google.com/webstore/detail/github-version-tags/kflokeeiigcmdejejgiajnefnpoaomjh" target="_blank">![Current version on the Chrome Web Store](https://img.shields.io/badge/chrome%20web%20store-1.0.0-blue.svg "Current version on the Chrome Web Store")</a>
+<a href="https://chrome.google.com/webstore/detail/github-version-tags/kflokeeiigcmdejejgiajnefnpoaomjh" target="_blank">![Current version on the Chrome Web Store](https://img.shields.io/badge/chrome%20web%20store-1.1.0-blue.svg "Current version on the Chrome Web Store")</a>
 
 Displays the latest version of a project next to the repo name on GitHub.
 
