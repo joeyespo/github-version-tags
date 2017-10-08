@@ -6,7 +6,7 @@
 Displays the latest version of a project next to the repo name on GitHub.
 
 
-![Screenshot](media/screenshot.png)
+<a href="https://chrome.google.com/webstore/detail/github-version-tags/kflokeeiigcmdejejgiajnefnpoaomjh" target="_blank">![Screenshot](media/screenshot.png "Screenshot")</a>
 
 
 Features
