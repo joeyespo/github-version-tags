@@ -111,7 +111,7 @@
       });
     }
     // Find repo name and insert version tags after
-    const repoElement = document.querySelectorAll('.repohead .repohead-details-container h1')[0];
+    const repoElement = document.querySelectorAll('.repohead div div h1')[0];
     if (repoElement.querySelectorAll('.GitHub-Version-Tags--Tag').length > 0) {
       return;
     }
