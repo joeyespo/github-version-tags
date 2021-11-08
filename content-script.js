@@ -111,11 +111,11 @@
       });
     }
     // Find repo name and insert version tags after
-    const repoElement = document.querySelectorAll('.repohead .repohead-details-container h1')[0];
+    const repoElement = document.querySelectorAll('#repository-container-header div div h1')[0];
     if (repoElement.querySelectorAll('.GitHub-Version-Tags--Tag').length > 0) {
       return;
     }
-    const nameElement = repoElement.querySelectorAll('[itemprop="name"]')[0];
+    const nameElement = repoElement.querySelectorAll('.Label')[0];
     if (!latest && !prerelease) {
       insertVersionTag(repoElement, nameElement, 'no versions tagged');
     }
